@@ -12,32 +12,6 @@ Ensure you have the following installed:
 - [Node.js](https://nodejs.org/)
 - [MongoDB](https://www.mongodb.com/try/download/community)
 
-## Installation
-
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-repo/alien-api.git
-   ```
-
-2. Navigate to the project directory:
-   ```sh
-   cd alien-api
-   ```
-
-3. Install dependencies:
-   ```sh
-   npm install
-   ```
-
-4. Start MongoDB locally:
-   ```sh
-   mongod
-   ```
-
-5. Start the server:
-   ```sh
-   node app.js
-   ```
 
 ## API Endpoints
 
